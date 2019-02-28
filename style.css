@@ -1,0 +1,28 @@
+body {
+    background-color: blue !important;
+}
+
+nav {
+    text-transform: uppercase;
+    font-family: PT Sans Narrow;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    font-style: italic;
+    background-color: green !important;
+}
+
+header {
+    height: 1080px;
+    width: 780px;
+    background-image: url("poolwater.png");
+    background-size: cover;
+    text-align: center;
+}
+header p{
+    
+}
